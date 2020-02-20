@@ -19,7 +19,7 @@ export default class BabyHog extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      weight: 10
+      weight: 100
     }
   }
 
